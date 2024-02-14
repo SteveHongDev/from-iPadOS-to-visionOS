@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		49C37BFD2B7C93B900A902B4 /* ZoomedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49C37BFC2B7C93B900A902B4 /* ZoomedView.swift */; };
 		516619782B63EEB900A6A4D6 /* WildGuardApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 516619772B63EEB900A6A4D6 /* WildGuardApp.swift */; };
 		5166197A2B63EEB900A6A4D6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 516619792B63EEB900A6A4D6 /* ContentView.swift */; };
 		5166197C2B63EEBA00A6A4D6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5166197B2B63EEBA00A6A4D6 /* Assets.xcassets */; };
@@ -26,6 +27,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		49C37BFC2B7C93B900A902B4 /* ZoomedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZoomedView.swift; sourceTree = "<group>"; };
 		516619742B63EEB900A6A4D6 /* WildGuard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WildGuard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		516619772B63EEB900A6A4D6 /* WildGuardApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WildGuardApp.swift; sourceTree = "<group>"; };
 		516619792B63EEB900A6A4D6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -76,6 +78,7 @@
 			isa = PBXGroup;
 			children = (
 				516619772B63EEB900A6A4D6 /* WildGuardApp.swift */,
+				49C37BFC2B7C93B900A902B4 /* ZoomedView.swift */,
 				516619792B63EEB900A6A4D6 /* ContentView.swift */,
 				516619892B63EECA00A6A4D6 /* HomeView.swift */,
 				516619B82B64327C00A6A4D6 /* CategoryStack.swift */,
@@ -176,6 +179,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				49C37BFD2B7C93B900A902B4 /* ZoomedView.swift in Sources */,
 				516619962B63EECA00A6A4D6 /* AnimalView.swift in Sources */,
 				51BF1B7E2B646AC000514ADC /* AnimalRow.swift in Sources */,
 				516619B92B64327C00A6A4D6 /* CategoryStack.swift in Sources */,
