@@ -47,7 +47,7 @@ struct AnimalView: View {
                     HStack {
                         Button {
                             #if os(visionOS)
-                            openWindow(value: animal.englishName)
+                            openWindow(value: animal)
                             #else
                             selectedImage = animal.englishName
                             #endif
