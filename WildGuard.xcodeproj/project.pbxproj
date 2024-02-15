@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		494C375F2B7DD39D00F38E17 /* romy.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 494C375D2B7DD33D00F38E17 /* romy.mp4 */; };
 		49C37BFD2B7C93B900A902B4 /* ZoomedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49C37BFC2B7C93B900A902B4 /* ZoomedView.swift */; };
 		516619782B63EEB900A6A4D6 /* WildGuardApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 516619772B63EEB900A6A4D6 /* WildGuardApp.swift */; };
 		5166197A2B63EEB900A6A4D6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 516619792B63EEB900A6A4D6 /* ContentView.swift */; };
@@ -27,6 +28,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		494C375D2B7DD33D00F38E17 /* romy.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = romy.mp4; sourceTree = "<group>"; };
 		49C37BFC2B7C93B900A902B4 /* ZoomedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZoomedView.swift; sourceTree = "<group>"; };
 		516619742B63EEB900A6A4D6 /* WildGuard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WildGuard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		516619772B63EEB900A6A4D6 /* WildGuardApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WildGuardApp.swift; sourceTree = "<group>"; };
@@ -89,6 +91,7 @@
 				5166198C2B63EECA00A6A4D6 /* Animal.swift */,
 				516619882B63EECA00A6A4D6 /* Bundle-Decodable.swift */,
 				516619B62B6409DC00A6A4D6 /* DataController.swift */,
+				494C375D2B7DD33D00F38E17 /* romy.mp4 */,
 				5166198B2B63EECA00A6A4D6 /* earth.json */,
 				516619852B63EECA00A6A4D6 /* sea.json */,
 				5166198A2B63EECA00A6A4D6 /* sky.json */,
@@ -168,6 +171,7 @@
 				5166197C2B63EEBA00A6A4D6 /* Assets.xcassets in Resources */,
 				5166198E2B63EECA00A6A4D6 /* sea.json in Resources */,
 				516619942B63EECA00A6A4D6 /* earth.json in Resources */,
+				494C375F2B7DD39D00F38E17 /* romy.mp4 in Resources */,
 				516619932B63EECA00A6A4D6 /* sky.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
